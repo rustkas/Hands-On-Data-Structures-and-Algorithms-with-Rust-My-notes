@@ -1,0 +1,7 @@
+workspace = { members = ["members/big_gen"]}
+[package]
+name = "ch03"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,10 @@
+[package]
+name = "big_gen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lazy_static = "1.4.0"
+num-bigint = "0.4.4"
+num-traits = "0.2.19"
+rand = "0.8.5"
